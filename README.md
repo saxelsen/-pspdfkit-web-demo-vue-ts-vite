@@ -6,9 +6,9 @@ Requirements:
 - `node>=16`
 - `yarn` or `npm`
 
-I've used `yarn`, but it works just as well with `npm`.
+I've used `npm`, but it works just as well with `yarn`.
 
-1. Install dependencies: `yarn install`
-2. Run the app in development mode: `yarn dev`
+1. Install dependencies: `npm install`
+2. Run the app in development mode: `npm run dev`
 3. Navigate to your browser at `localhost:8080`
 

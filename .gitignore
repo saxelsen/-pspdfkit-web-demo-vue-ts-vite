@@ -1,0 +1,3 @@
+public/**/*pspdfkit*
+dist
+!package-lock.json
